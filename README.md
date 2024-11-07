@@ -1,4 +1,4 @@
-# tech-exercice-bfs-solidity
+# tech-exercice-1-solidity
 
 ## Prompt
 
